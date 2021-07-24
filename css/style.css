@@ -1,0 +1,10 @@
+#boxes{
+    text-align: center;
+    align-items: center;
+    margin:300px;
+}
+.box{
+    height:40px;
+    width:40px;
+    margin:-2px;
+}
